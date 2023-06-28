@@ -1,10 +1,19 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-(Your pseudocode here)
+(2+4=6)
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+The sum of 2 numbers is even
+
+(Start
+1. Print "Enter Any Number to Check, Even or Odd"
+2. Read input of a number
+3. If number mod = 0
+4.  Print "Number is Even"
+5. Else
+6.  Print "Number is Odd"
+7. End
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -14,6 +23,29 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+(1.BEGIN
+ 2.NUMBERS SUM 2,4,6,8,10
+ 3.OUTPUT("2:")
+ 4.INPUT 2
+ 5.OUTPUT("4:")
+ 6.INPUT 4
+ 7.OUTPUT("6:")
+ 8.INPUT 4
+ 9.OUTPUT("6:")
+ 10.INPUT 6
+ 11.OUTPUT("8:")
+ 12.INPUT 8
+ 13.OUTPUT("10:")
+ 14.INPUT 10
+ 15.Sum 2+4+6+8+10
+ 16.OUTPUT sum (30) 
+ 17.print("Enter five integers:"):scanf("%d %d %d %d %d, & number1, number2, number3, number4 & number5)
+ 18.Calculate quotient = product // 5
+ 19. Print 30
+
+If the number is greater 2 say the number is 6.
+If the number is greater than 6 say the number is 10
+6>2 but <10
+
 
 -- END --
